@@ -5,5 +5,5 @@ Was a personal challenge to see if see how much of a 3d rendering engine I could
 Very slow, buggy and unoptimised - but I'm pretty proud of it.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Bencargs/3DObjectRendering/blob/main/output.gif">
+  <img width="558" height="590" src="https://github.com/Bencargs/3DObjectRendering/blob/main/output.gif">
 </p>
