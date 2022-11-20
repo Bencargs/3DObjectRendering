@@ -162,7 +162,6 @@ namespace ObjectRendering
 				renderer.Update(_buffer.Graphics, this.DisplayRectangle);
 			}
 
-			// note this would require a breakpoint to hit..
 			renderer.Save();
 		}
 
