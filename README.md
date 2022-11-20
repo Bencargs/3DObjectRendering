@@ -1,4 +1,4 @@
-# 3DObjectRendering
+# 3D Object Rendering
 
 Writing a custom 3d rendering engine.
 Was a personal challenge to see how much of a 3D rendering engine I could make from scratch.
